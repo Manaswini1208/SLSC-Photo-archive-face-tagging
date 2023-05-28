@@ -1,1 +1,8 @@
 
+This text file basically includes the requirements of the project.
+1. First we need to collect the dataset consisting of images and names of different teenagers.
+2.Collecting the dataset.
+3.Dividing the dataset to training and testing dataset.
+4.Creating a model for face recognition.
+5.Based on the pre defined trained dataset as input, the model predicts the student details with their face.
+For collecting the dataset, we started discussing with the professor who closely works with the YES program Face Tagging.These are the main insights provided by her, We found out that, in Youth Exploring Science program, there are thousands of photos of students. I came to know that most of the photos are on Dropbox, flicker and google photos. Currently the photos are organized by event and date, So, we should be able to find a way where we could be able to sort photos by student names and face which makes easy to collect information of each student without looking up the dates and events.
